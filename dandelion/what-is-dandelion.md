@@ -35,3 +35,7 @@ In my next post, I'll describe the existing features of Dandelion and some featu
 All my posts will be on [GitHub](https://github.com/chloe-glowy/blog/tree/main/dandelion) and my [DEV page](https://dev.to/chloeglowy). The source code for this post is on GitHub [here](https://github.com/chloe-glowy/blog/blob/main/dandelion/what-is-dandelion.md). 
 
 The source code for Dandelion is on GitHub [here](https://github.com/chloe-glowy/dandelion).
+
+Demo Video:
+
+![Demo Video](https://github.com/chloe-glowy/blog/blob/main/dandelion/assets/ezgif-2-d00a0ad6da.gif?raw=true)
